@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1607338249 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\blanc.c
+	"Header.h"
+
+1607339365 c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607338241 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\noir.c
+	"Header.h"
+
+1607338338 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\initialisation.c
+	"Header.h"
+
+1616670831 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1616669964 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\nouveaujeu.c
+	"Header.h"
+
+1616670267 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\option.c
+	"Header.h"
+
+1607339080 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\verification.c
+	"Header.h"
+
+1607339376 source:c:\users\tracc\documents\ece tech\b2\c++\projet c++\projet_gestion-perso_git\projet_echec_v2\afficher.c
+	"Header.h"
+
